@@ -1,0 +1,7 @@
+C:\Jindal\Azure-Notes\Day5-AKS\MVCAppnew002\aviappbuild002\MVCAppnew002.exe
+C:\Jindal\Azure-Notes\Day5-AKS\MVCAppnew002\aviappbuild002\appsettings.Development.json
+C:\Jindal\Azure-Notes\Day5-AKS\MVCAppnew002\aviappbuild002\appsettings.json
+C:\Jindal\Azure-Notes\Day5-AKS\MVCAppnew002\aviappbuild002\MVCAppnew002.dll
+C:\Jindal\Azure-Notes\Day5-AKS\MVCAppnew002\aviappbuild002\MVCAppnew002.deps.json
+C:\Jindal\Azure-Notes\Day5-AKS\MVCAppnew002\aviappbuild002\MVCAppnew002.runtimeconfig.json
+C:\Jindal\Azure-Notes\Day5-AKS\MVCAppnew002\aviappbuild002\MVCAppnew002.pdb
